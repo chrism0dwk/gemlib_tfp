@@ -4,3 +4,4 @@
 from gemlib_tfp.distributions.categorical2 import *
 from gemlib_tfp.distributions.kcategorical import *
 from gemlib_tfp.distributions.categorical2 import *
+from gemlib_tfp.distributions.discrete_time_state_transition import *
